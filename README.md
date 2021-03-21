@@ -5,5 +5,10 @@ JavaScript - Curso COMPLETO com 6 Projetos REAIS"</a></b> da Hcode.</p>
 
 ## Sobre a calculadora:
 <ul>
+<li>Cada tecla funciona equivalente a uma calculadora comum, então não será necessário explicar suas funcionalidades</li>
 <li>Emite som ao clicar (que pode ser desativado clicando duas vezes na tecla "AC")</li>
+<li>Exibe mensagem de erro</li>
+<li>Como ocorre em uma calculadora comum, ao realizar uma operação, se a tecla "=" for clicada mais de uma vez, irá executar a última operação para cada clique extra.</li>
+<li>Recebe também eventos do teclado</li>
+<li>É possível copiar as mensagens exibidas no display da máquina, assim como também é possível colar.</li>
 </ul>
